@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 ## Project URL
 [Server Performance Stats Project](https://roadmap.sh/projects/server-stats)
@@ -25,6 +24,3 @@ It's a light Bash script to analyze and display basic performance metrics on any
 1. **Clone or download the script:**
    ```bash
    git clone [https://github.com/Emaski/Serverperformce.git](https://github.com/Emaski/Serverperformce.git)
-=======
-# Serverperformance
->>>>>>> aabfb8b1bb562dc8604322b8e78dfc515082830e
